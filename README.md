@@ -1,16 +1,14 @@
-# magic_8_ball
+# Magic 8 Ball
 
-A new Flutter project.
+This is a simple Magic 8 Ball app created as part of the Flutter Development Bootcamp with Dart by Angela Yu on Udemy. The app provides answers to your questions on tap of the ball, similar to a real Magic 8 Ball.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Ask any question and get an answer by tapping the ball.
+- Simple and clean user interface.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Magic 8 Ball Demo](demo/magic_ball.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
